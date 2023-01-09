@@ -3,3 +3,4 @@ install/*
 log/*
 site/*
 models/*
+yolov5s.pt
