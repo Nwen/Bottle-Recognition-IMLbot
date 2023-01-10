@@ -1,0 +1,8 @@
+# SIMPLE IMAGE RECOGNITION ROBOT IN ROS USING A YOLOv5 SELF-TRAINED MODEL
+2023 IML Project
+Gwendal Paton [[g8paton@enib.fr]]
+## INSTALLATION
+
+## SOURCES
+Yolov5
+Youtube tutorial

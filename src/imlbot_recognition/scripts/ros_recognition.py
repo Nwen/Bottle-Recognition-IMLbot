@@ -16,7 +16,6 @@ sys.path.append(FILE.parents[0].as_posix())
 bridge = CvBridge()
 
 class Camera_subscriber(Node):
-
     def __init__(self):
         super().__init__('camera_subscriber')
 
