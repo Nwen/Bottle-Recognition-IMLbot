@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">
-  <model name="person_block">
+  <model name="water_bottles_block_2">
     <static>true</static>
     <link name="link">
       <collision name="collision">
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://person_block/meshes/person_block.stl</uri>
+            <uri>model://cat_block/meshes/cat_block.stl</uri>
           </mesh>
         </geometry>
         <surface>
@@ -23,7 +23,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://person_block/meshes/person_block.dae</uri>
+            <uri>model://cat_block/meshes/cat_block.dae</uri>
           </mesh>
         </geometry>
       </visual>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">
-  <model name="cat_block">
+  <model name="water_bottles_block_1">
     <static>true</static>
     <link name="link">
       <collision name="collision">
