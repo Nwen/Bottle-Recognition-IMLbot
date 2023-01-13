@@ -20,7 +20,7 @@ class Camera_subscriber(Node):
         super().__init__('camera_subscriber')
 
         # Model
-        self.model = torch.hub.load('ultralytics/yolov5', 'yolov5s')  # or yolov5n - yolov5x6, custom
+        self.model = torch.hub.load('ultralytics/yolov5', 'custom', path='../models/water-bottles.pt')
 
         self.subscription = self.create_subscription(
             Image,
