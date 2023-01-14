@@ -81,7 +81,13 @@ If I had more time I would use a real robot instead of the one I used which is o
 
 https://youtu.be/RyQUWOQm9yE
 
+In the video we can see that the robot can recognise water bottles. Images in teh simulation world are not part from the dataset. The model is not perfect and can make errors on other bottles such as wine bottles. It also seems to detect the human as a water bottle, it might be caused bu the shape of the person, his head looks a bit like a bottle cap and his shirt could be confused with the label. Also cans such as the campbell soup can be confused because they are close to the cylinder shape of a bottle
+
 ![image](https://user-images.githubusercontent.com/7102654/212479170-1eacf90d-595a-4f2a-a75b-f10bc133190f.png)
+
+![image](https://user-images.githubusercontent.com/7102654/212479290-e1d322ec-94be-4d1c-96f0-3d7b061d08d3.png)
+
+![image](https://user-images.githubusercontent.com/7102654/212479314-526aaff0-684c-4c2a-8468-0e3b2a6387c1.png)
 
 
 ## SOURCES
