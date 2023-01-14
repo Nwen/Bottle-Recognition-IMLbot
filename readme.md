@@ -79,15 +79,7 @@ If I had more time I would use a real robot instead of the one I used which is o
 
 ## DEMO
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/RyQUWOQm9yE"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/RyQUWOQm9yE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 https://youtu.be/RyQUWOQm9yE
 
