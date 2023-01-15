@@ -94,5 +94,4 @@ In the video we can see that the robot can recognise water bottles. Images in te
 
 Yolov5 by Ultralytics / Glenn Jocher : https://github.com/ultralytics/yolov5
 
-Youtube tutorial (ROS Scripts & robot 
-del) by Robot mania : https://www.youtube.com/watch?v=594Gmkdo-_s
+Youtube tutorial (ROS Scripts & robot model) by Robot mania : https://www.youtube.com/watch?v=594Gmkdo-_s
