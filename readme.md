@@ -20,11 +20,13 @@ The joystick I used was an Xbox controller.
 `sudo apt install ros2-humble-joy ros2-humble-teleop-tools`
 
 More information : https://index.ros.org/p/joy/
-Joystick sonfig tutorial : http://wiki.ros.org/joy/Tutorials/ConfiguringALinuxJoystick
+
+Joystick config tutorial : http://wiki.ros.org/joy/Tutorials/ConfiguringALinuxJoystick
 
 ### 3d models
 
 3d models are provided for the simulation world.
+
 Copy all folders in `imlbot/models` into `home/.gazebo/models` (folder is hidden by default)
 
 ### Execution
